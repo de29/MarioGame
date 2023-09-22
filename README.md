@@ -1,0 +1,2 @@
+# MarioGame
+In this game, players assume the role of the iconic character Mario, embarking on an exciting adventure through various levels filled with challenges and adversaries. Mario's primary objective is to navigate the terrain, deftly jumping on enemies to defeat them and collecting valuable coins along the way to score points. Behind the scenes, the game's development is driven by three essential design patterns: the Template Method pattern, Command pattern, and Observer pattern.
